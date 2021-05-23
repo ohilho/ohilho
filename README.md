@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohilho&theme=material-palenight&show_icons=true)
 
+![wakatime_languages](https://wakatime.com/share/@ohilho/f57c2a4f-951b-4f4d-a3ce-9fef70076f18.svg)
 ![Metrics](https://github.com/ohilho/ohilho/blob/master/github-metrics.svg)
